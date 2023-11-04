@@ -1,0 +1,11 @@
+body {
+  background: rgb(252, 227, 138);
+}
+
+div {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
